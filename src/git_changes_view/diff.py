@@ -1,4 +1,4 @@
-em"""Git diff logic using GitPython."""
+"""Git diff logic using GitPython."""
 
 from dataclasses import dataclass
 
